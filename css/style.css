@@ -1,4 +1,9 @@
 body {
     background-color: #cff1ef;
     text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: 'Kalam', cursive;
 }
